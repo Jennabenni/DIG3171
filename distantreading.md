@@ -5,6 +5,10 @@ title: Distant Reading Project
 
 {% include nav.html %}
 
+Options:
+https://www.neil.blog/full-speech-transcript/you-are-brilliant-and-the-earth-is-hiring-by-paul-hawken
+
+
 
 # Distant Reading Assignment 
 
