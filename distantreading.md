@@ -5,12 +5,11 @@ title: Distant Reading Project
 
 {% include nav.html %}
 
-Link to speech:
-https://www.neil.blog/full-speech-transcript/you-are-brilliant-and-the-earth-is-hiring-by-paul-hawken
-
-
 
 # Distant Reading Assignment 
+
+Link to speech:
+https://www.neil.blog/full-speech-transcript/you-are-brilliant-and-the-earth-is-hiring-by-paul-hawken
 
 Voyant results:
 
@@ -61,11 +60,13 @@ Empowerment & Responsibility
 The graduates are entrusted with the most significant challenge of any generation.
 Cynicism is rejected in favor of hope, imagination, and action.
 
+<br>
 
 Analysis:
 
 I can discern the key points that the speaker made as well as the different literary and historical references that were made throughout the text.  I know from CoPilot’s summary that it was addressing a graduating class, telling and urging them to care about the environment and that it has been left in their hands, as previous generations have failed.  I can’t know the context of the references or what the actual quotes are, nor can I know the flow of the speech or the order that the information is presented in.  The results however were accurate to the speech and gave a thorough summary of the speech.
 
+<br>
 
 Reflection:
 
