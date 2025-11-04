@@ -5,10 +5,6 @@ title: Research Project
 
 # Final Research Project  
 
-This is a big project, and you definitely want a place to show it off! Here's a suggested layout for that (but feel free to display your work however you prefer).
-You can link to your project here, or embed it.
-If it is easier to embed your project in an HTML file, just change the .md on this one to .html, and write in HTML! (Be sure to update the links to this page to reflect the new name though!)
-
 # Abstract
 
 <h2>Impacts of Art Therapy on the Wellbeing of the Individual and the Community</h2>
@@ -18,8 +14,6 @@ If it is easier to embed your project in an HTML file, just change the .md on th
 
 
 # Works Cited
-
-(add HTML code to do the hanging indentation, as seen below)
 
 <style>
   .works-cited {
