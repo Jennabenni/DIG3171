@@ -6,7 +6,7 @@ title: Research Project
 # Final Research Project  
 
 Chatling AI Bot:
-https://share.chatling.ai/s/xnPR1TJw54lv7Z5
+<a href="https://share.chatling.ai/s/xnPR1TJw54lv7Z5">Chatling</a>
 
 
 # Abstract
