@@ -5,6 +5,10 @@ title: Research Project
 
 # Final Research Project  
 
+Chatling AI Bot:
+https://share.chatling.ai/s/xnPR1TJw54lv7Z5
+
+
 # Abstract
 
 <h2>Impacts of Art Therapy on the Wellbeing of the Individual and the Community</h2>
